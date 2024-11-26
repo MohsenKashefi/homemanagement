@@ -23,7 +23,7 @@ class _RegistrationPageState extends State<RegistrationPage> {
         backgroundColor: Colors.purple,
       ),
       body: Padding(
-        padding: const EdgeInsets.all(16.0),
+        padding: const EdgeInsets.all(17.0),
         child: SingleChildScrollView(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
